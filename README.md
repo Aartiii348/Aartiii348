@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/db55fd66-c0b9-4dcd-894a-6efea040b819" />
 
 <h1 align="center">👋 Hi, I'm Aarti Somwanshi</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Tableau</h3>
+
 
 ---
 
