@@ -55,7 +55,7 @@ Identifying at-risk customers using Python + visualization.
 - Gmail - somwanshiaarti09@gmail.com
 - LinkedIn - https://www.linkedin.com/in/aartisomwanshi-/
 - GitHub - https://github.com/Aartiii348
-- Tableau Public - https://lnkd.in/gxrFGtrU
+- Tableau Public - https://public.tableau.com/app/profile/aarti.somwanshi/vizzes
 
 ## 🏆 Licenses & Certifications
 - Data Analytics With Azure and AI (Grow Data Skills)
