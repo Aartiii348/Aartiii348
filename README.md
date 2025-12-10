@@ -24,7 +24,7 @@ I enjoy working with **Python, SQL, and visualization tools** to solve real-worl
 - 🧮 Pandas / NumPy  
 - 📓 Jupyter Notebook  
 
-### **Visualization & BI Tools**
+### **Visualization & BI Tools**                                                                
 - 📊 Power BI  
 - 📉 Tableau  
 - 📘 Excel  
